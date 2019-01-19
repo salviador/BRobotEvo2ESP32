@@ -1,0 +1,10 @@
+la libreria "Wire" va sostituita:
+
+C:\Users\miki\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.0\libraries
+
+
+
+dentro artuino/libraries
+togliere:
+\WiFi
+\Wire
